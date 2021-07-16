@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.joao</groupId>
-	<artifactId>workshop-mongo</artifactId>
+	<artifactId>workshopmongo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>workshop-mongo</name>
+	<name>workshopmongo</name>
 	<description>Workshop Spring Boot with Mongodb</description>
 	<properties>
 		<java.version>1.8</java.version>
